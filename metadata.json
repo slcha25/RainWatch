@@ -1,0 +1,5 @@
+{
+  "name": "RainWatch Montgomery",
+  "description": "A community-driven flood monitoring and predictive water management platform that identifies optimal sites for water barrels and gardens using terrain analysis and citizen feedback.",
+  "requestFramePermissions": ["geolocation"]
+}
