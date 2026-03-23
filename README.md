@@ -121,4 +121,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - [Open-Meteo](https://open-meteo.com/) for the free weather API
 - [OpenStreetMap](https://www.openstreetmap.org/) & [Leaflet](https://leafletjs.com/) for map tiles and rendering
-- Montgomery County community members for inspiring this platform
+- Montgomery County community providing the open source
