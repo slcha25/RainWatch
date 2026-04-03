@@ -13,11 +13,9 @@ A community-driven flood monitoring and predictive water management platform for
 - **Real-Time Updates** — WebSocket-powered live sync: new reports and recommendations appear instantly across all connected users
 - **Micro-Terrain Runoff Analysis** — Automatically analyzes terrain slope and elevation from citizen reports to recommend water barrel or rain garden placements
 - **Community Dashboard** — Live stats showing total reports and infrastructure recommendations
-- **Weather Alerts** — Live storm warnings powered by the Open-Meteo weather API
 - **Post-Storm Reminders** — Prompts users to submit reports after storm events are detected
 - **User Authentication** — Secure sign up, login, email verification, and password reset
 - **User History** — View your personal report history and login history in your profile
-- **Multilingual Support** — Interface available in English, Chinese, Spanish, Vietnamese, Korean, and African languages
 - **Responsive Design** — Fully functional on desktop and mobile
 
 ---
@@ -34,7 +32,6 @@ A community-driven flood monitoring and predictive water management platform for
 | Database | SQLite (better-sqlite3) |
 | Real-Time | WebSockets (ws) |
 | Auth | JWT (jsonwebtoken), bcryptjs, HTTP-only cookies |
-| Weather API | Open-Meteo (free, no API key required) |
 | Runtime | tsx (TypeScript execution) |
 
 ---
